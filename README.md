@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Hakim, an ios developer  👨‍💻Learning and Developing since 2022 🚀</div>  
+### <div align="center">I'm Hakim, an Ios developer  Learning and Developing since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [3 Apps in AppStore](https://apps.apple.com/us/developer/elshan-aliyev/id1691286018?ign-itscg=30200&ign-itsct=apps_box_li)  
