@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -121,7 +123,14 @@ DailyQuotes ❞<br/>    <br/>   [Github](https://github.com/hakim-cyber/DailyQuo
    <br/>  
 <table><tr><td valign="top" width="33%">
   
- ![IMG_9043](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/538a4270-61c4-499f-b8e6-5e09d4d9808c)
+
+
+https://github.com/hakim-cyber/hakim-cyber/assets/115820565/bc9193f3-eb92-4b1e-8080-66c13fba7821
+
+
+
+
+
 
   
 
