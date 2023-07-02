@@ -47,7 +47,8 @@
 ## My Apps And projects  
   <br/>  
 
-[Nutritionly 🍏](https://apps.apple.com/us/app/nutritionly/id6450108528) //  [Github](https://github.com/hakim-cyber/Nutritionly)
+Nutritionly 🍏     <br/>    <br/>  [link](https://apps.apple.com/us/app/nutritionly/id6450108528)  <br/>  [Github](https://github.com/hakim-cyber/Nutritionly)
+
   <br/>  
    <br/>  
   
@@ -70,7 +71,7 @@
 <br/>  
 <br/>  
 
-[Workoutive🏋️](https://apps.apple.com/us/app/workoutive/id6450684117) //  [Github](https://github.com/hakim-cyber/Nutritionly) 
+Workoutive🏋️ <br/>    <br/> [link](https://apps.apple.com/us/app/workoutive/id6450684117)      <br/>  [Github](https://github.com/hakim-cyber/Nutritionly) 
   <br/>  
    <br/>  
 
@@ -87,7 +88,7 @@
 <br/>  
 <br/>  
 
-[OnTime Task Manager ✓](https://apps.apple.com/us/app/ontime-task-manager/id6449971202) //  [Github](https://github.com/hakim-cyber/Nutritionly)
+OnTime Task Manager ✓ <br/>    <br/>  [ link](https://apps.apple.com/us/app/ontime-task-manager/id6449971202)     <br/>   [Github](https://github.com/hakim-cyber/Nutritionly)
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
@@ -102,7 +103,7 @@
 <br/>  
   
 
-[FlowChat 📲](https://github.com/hakim-cyber/FlowChat) 
+FlowChat 📲 <br/>    <br/>   [Github](https://github.com/hakim-cyber/FlowChat) 
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
