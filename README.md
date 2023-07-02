@@ -47,7 +47,7 @@
 ## My Apps And projects  
   <br/>  
 
-<div align="center">[Nutritionly 🍏](https://apps.apple.com/us/app/nutritionly/id6450108528) //  [Github](https://github.com/hakim-cyber/Nutritionly)</div>  
+[Nutritionly 🍏](https://apps.apple.com/us/app/nutritionly/id6450108528) //  [Github](https://github.com/hakim-cyber/Nutritionly)
   <br/>  
    <br/>  
   
@@ -60,7 +60,7 @@
 ![IMG_9044 2](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/fef53a4c-aa0a-4022-9a35-ce4709c0eea5)
 
 
-https://github.com/hakim-cyber/hakim-cyber/assets/115820565/ec00467b-c7b6-4e35-a4aa-133eef7506e3
+
 
 
 </td></tr></table>  
@@ -70,7 +70,7 @@ https://github.com/hakim-cyber/hakim-cyber/assets/115820565/ec00467b-c7b6-4e35-a
 <br/>  
 <br/>  
 
-<div align="center">[Workoutive🏋️](https://apps.apple.com/us/app/workoutive/id6450684117) //  [Github](https://github.com/hakim-cyber/Nutritionly)</div>  
+[Workoutive🏋️](https://apps.apple.com/us/app/workoutive/id6450684117) //  [Github](https://github.com/hakim-cyber/Nutritionly) 
   <br/>  
    <br/>  
 
@@ -87,7 +87,7 @@ https://github.com/hakim-cyber/hakim-cyber/assets/115820565/ec00467b-c7b6-4e35-a
 <br/>  
 <br/>  
 
-<div align="center">[OnTime Task Manager](https://apps.apple.com/us/app/ontime-task-manager/id6449971202) //  [Github](https://github.com/hakim-cyber/Nutritionly)</div>  
+[OnTime Task Manager](https://apps.apple.com/us/app/ontime-task-manager/id6449971202) //  [Github](https://github.com/hakim-cyber/Nutritionly)
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
@@ -102,7 +102,7 @@ https://github.com/hakim-cyber/hakim-cyber/assets/115820565/ec00467b-c7b6-4e35-a
 <br/>  
   
 
-<div align="center">[FlowChat](https://github.com/hakim-cyber/FlowChat)</div>  
+[FlowChat](https://github.com/hakim-cyber/FlowChat) 
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
