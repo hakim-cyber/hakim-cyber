@@ -116,7 +116,7 @@ FlowChat 📲 <br/>    <br/>   [Github](https://github.com/hakim-cyber/FlowChat)
 
 </td></tr></table>  
 
-DailyQuotes 📲 <br/>    <br/>   [Github](https://github.com/hakim-cyber/FlowChat) 
+DailyQuotes ❞<br/>    <br/>   [Github](https://github.com/hakim-cyber/DailyQuotes) 
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
