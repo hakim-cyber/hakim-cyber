@@ -87,7 +87,7 @@
 <br/>  
 <br/>  
 
-[OnTime Task Manager](https://apps.apple.com/us/app/ontime-task-manager/id6449971202) //  [Github](https://github.com/hakim-cyber/Nutritionly)
+[OnTime Task Manager ✓](https://apps.apple.com/us/app/ontime-task-manager/id6449971202) //  [Github](https://github.com/hakim-cyber/Nutritionly)
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
@@ -102,7 +102,7 @@
 <br/>  
   
 
-[FlowChat](https://github.com/hakim-cyber/FlowChat) 
+[FlowChat 📲](https://github.com/hakim-cyber/FlowChat) 
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
