@@ -110,19 +110,31 @@ FlowChat 📲 <br/>    <br/>   [Github](https://github.com/hakim-cyber/FlowChat)
   
  ![IMG_9043](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/538a4270-61c4-499f-b8e6-5e09d4d9808c)
 
+  <br/>  
+<br/>  
+<br/>  
+
+</td></tr></table>  
+
+DailyQuotes 📲 <br/>    <br/>   [Github](https://github.com/hakim-cyber/FlowChat) 
+  <br/>  
+   <br/>  
+<table><tr><td valign="top" width="33%">
+  
+ ![IMG_9043](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/538a4270-61c4-499f-b8e6-5e09d4d9808c)
+
   
 
 </td></tr></table>  
 
 
-
 <br/>  
 <br/>  
 <br/>  
 
   
 
-- ⚡ Fun fact: I have a knack for turning caffeine into code )  
+ 
   
   
 
