@@ -1,9 +1,9 @@
 
 
-<div align="center">
-![Hakim Aliyev](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/201c7925-b1c4-423b-a7f9-79c65b90a0ce)
 
-</div>  
+![Hakim Aliyev](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/bd48641d-447b-4e5a-8163-a611ffbc2509)
+
+
   
 
 ### <div align="center">I'm Hakim, an Ios developer  Learning and Developing since February 2023 🚀</div>  
