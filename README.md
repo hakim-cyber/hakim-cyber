@@ -13,10 +13,10 @@
 - 😎 Scroll to see my projects
   
 
-- 🌱 I’m currently learning swift, swiftui,uikit,Artificial Inteligence
+- 🌱 I’m currently learning Swift, SwiftUi, UiKit, Artificial Intelligence
   
 
-- ❓ Ask me about anything related to swift and swiftui  
+- ❓ Ask me about anything related to Swift and  SwiftUi
   
 
 - ⚡ Fun fact: I have a knack for turning caffeine into code )  
