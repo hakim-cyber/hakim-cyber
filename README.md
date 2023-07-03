@@ -48,7 +48,7 @@
   <br/>  
 
 ### Nutritionly 🍏    
-<br/>  [link](https://apps.apple.com/us/app/nutritionly/id6450108528)  <br/>  [Github](https://github.com/hakim-cyber/Nutritionly)
+<br/>  [AppStore](https://apps.apple.com/us/app/nutritionly/id6450108528)  <br/>  [Github](https://github.com/hakim-cyber/Nutritionly)
 
   <br/>  
    <br/>  
@@ -73,7 +73,7 @@
 <br/>  
 
 ### Workoutive🏋️
-   <br/> [link](https://apps.apple.com/us/app/workoutive/id6450684117)      <br/>  [Github](https://github.com/hakim-cyber/MuscleMate2) 
+   <br/> [AppStore](https://apps.apple.com/us/app/workoutive/id6450684117)      <br/>  [Github](https://github.com/hakim-cyber/MuscleMate2) 
   <br/>  
    <br/>  
 
@@ -91,7 +91,7 @@
 <br/>  
 
 ### OnTime Task Manager ✓
-  <br/>  [ link](https://apps.apple.com/us/app/ontime-task-manager/id6449971202)     <br/>   [Github](https://github.com/hakim-cyber/OnTime)
+  <br/>  [AppStore](https://apps.apple.com/us/app/ontime-task-manager/id6449971202)     <br/>   [Github](https://github.com/hakim-cyber/OnTime)
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
