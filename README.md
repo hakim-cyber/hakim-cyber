@@ -47,7 +47,8 @@
 # My Apps And projects  
   <br/>  
 
-### Nutritionly 🍏     <br/>    <br/>  [link](https://apps.apple.com/us/app/nutritionly/id6450108528)  <br/>  [Github](https://github.com/hakim-cyber/Nutritionly)
+### Nutritionly 🍏    
+<br/>  [link](https://apps.apple.com/us/app/nutritionly/id6450108528)  <br/>  [Github](https://github.com/hakim-cyber/Nutritionly)
 
   <br/>  
    <br/>  
@@ -71,7 +72,8 @@
 <br/>  
 <br/>  
 
-### Workoutive🏋️ <br/>    <br/> [link](https://apps.apple.com/us/app/workoutive/id6450684117)      <br/>  [Github](https://github.com/hakim-cyber/MuscleMate2) 
+### Workoutive🏋️
+   <br/> [link](https://apps.apple.com/us/app/workoutive/id6450684117)      <br/>  [Github](https://github.com/hakim-cyber/MuscleMate2) 
   <br/>  
    <br/>  
 
@@ -88,7 +90,8 @@
 <br/>  
 <br/>  
 
-### OnTime Task Manager ✓ <br/>    <br/>  [ link](https://apps.apple.com/us/app/ontime-task-manager/id6449971202)     <br/>   [Github](https://github.com/hakim-cyber/OnTime)
+### OnTime Task Manager ✓
+  <br/>  [ link](https://apps.apple.com/us/app/ontime-task-manager/id6449971202)     <br/>   [Github](https://github.com/hakim-cyber/OnTime)
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
@@ -103,7 +106,8 @@
 <br/>  
   
 
-### FlowChat 📲 <br/>    <br/>   [Github](https://github.com/hakim-cyber/FlowChat) 
+### FlowChat 📲 
+<br/>   [Github](https://github.com/hakim-cyber/FlowChat) 
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
@@ -119,7 +123,8 @@
 <br/>  
 <br/>  
   
-### DailyQuotes ❞<br/>    <br/>   [Github](https://github.com/hakim-cyber/DailyQuotes) 
+### DailyQuotes ❞
+ <br/>   [Github](https://github.com/hakim-cyber/DailyQuotes) 
   <br/>  
    <br/>  
 <table><tr><td valign="top" width="33%">
