@@ -1,7 +1,8 @@
 
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+![Hakim Aliyev](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/201c7925-b1c4-423b-a7f9-79c65b90a0ce)
+
 </div>  
   
 
