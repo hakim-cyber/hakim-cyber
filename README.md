@@ -40,10 +40,7 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-<br/>  
+</td></tr></table> 
 <br/>  
 
 ## My Apps And projects  
