@@ -125,7 +125,7 @@ DailyQuotes ❞<br/>    <br/>   [Github](https://github.com/hakim-cyber/DailyQuo
   
 
 
-https://github.com/hakim-cyber/hakim-cyber/assets/115820565/bc9193f3-eb92-4b1e-8080-66c13fba7821
+![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/74e83dd5-3c13-486a-bbfe-cbdddd48b8d7)
 
 
 
