@@ -61,11 +61,32 @@
 
 ![IMG_9044 2](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/fef53a4c-aa0a-4022-9a35-ce4709c0eea5)
 
+### Tech Used: 
+
+🔘 Swiftui
+🔘 Swift
+🔘 Widget Kit
+🔘 Notification Center
+🔘 JSON
+🔘 API
+🔘 Swift Concurrency
+🔘 MVVM
+🔘 Firebase Auth and Firestore
+🔘 HEalth Kit
+🔘 Charts
+🔘 User Defaults
+🔘 Revenue Cat (now removed)
+🔘 Emoji Picker
+
+  
+
 
 
 
 
 </td></tr></table>  
+ 
+ 
 <br/>  
 <br/>  
 
