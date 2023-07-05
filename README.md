@@ -104,6 +104,12 @@
 
 ![IMG_9066](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/68a4dfb4-4daf-4cb5-aa23-286787ccee6b)
 
+### Tech Used: 
+🔘 JSON
+🔘 API
+🔘 Swift
+🔘 Swiftui
+🔘 Device Storage
 
 </td></tr></table>  
 <br/> 
@@ -119,7 +125,16 @@
   
   ![IMG_9061 2](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/bbc74fb5-0f97-4b21-b781-8768b95bf89a)
   
-
+   ### Tech Used: 
+   
+   🔘 Notification Center 
+   🔘 Swift
+   🔘 Swiftui
+   🔘 Firebase Firestore
+   🔘 MVVM
+   🔘 JSON
+   
+   
 </td></tr></table>  
 
 <br/>  
@@ -134,6 +149,18 @@
 <table><tr><td valign="top" width="33%">
   
  ![IMG_9043](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/538a4270-61c4-499f-b8e6-5e09d4d9808c)
+
+### Tech Used: 
+
+🔘 Firebase Auth , Firestore(real time)
+🔘 Swift
+🔘 Swiftui
+🔘 Chat Gpt Api
+🔘 MVVM
+🔘 UiKit
+🔘 Lottie
+🔘 PhotosUi
+
 
   <br/>  
 <br/>  
@@ -154,7 +181,13 @@
 
 ![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/74e83dd5-3c13-486a-bbfe-cbdddd48b8d7)
 
+### Tech Used: 
 
+🔘 Swift
+🔘 SwiftUI
+🔘 Ninja Api
+🔘 JSON 
+🔘 UserDefaults
 
 
 
