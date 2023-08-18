@@ -101,7 +101,7 @@
 
    It Was Built in 2 Versions (UIKit ,SwiftUI)😁
    
-### Only SwiftUi
+### Only SwiftUI
 <table><tr><td valign="top" width="33%">
   
 
