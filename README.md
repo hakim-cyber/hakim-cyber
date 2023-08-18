@@ -13,10 +13,10 @@
 - 😎 Scroll to see my projects
   
 
-- 🌱 I’m currently learning Swift, SwiftUi, UiKit, Artificial Intelligence
+- 🌱 I’m currently learning Swift, SwiftUi, UIKit, Artificial Intelligence
   
 
-- ❓ Ask me about anything related to Swift and  SwiftUi
+- ❓ Ask me about anything related to Swift, UIKit and  SwiftUi
   
 
 - ⚡ Fun fact: I have a knack for turning caffeine into code )  
@@ -97,7 +97,8 @@
    <br/> [AppStore](https://apps.apple.com/us/app/workoutive/id6450684117)      <br/>  [Github](https://github.com/hakim-cyber/MuscleMate2) 
   <br/>  
    <br/>  
-
+   
+## Only SwiftUi
 <table><tr><td valign="top" width="33%">
   
 
@@ -109,6 +110,24 @@
 🔘 API
 🔘 Swift
 🔘 Swiftui
+🔘 Device Storage
+
+</td></tr></table>  
+## Only UIKit
+
+![Apple iPhone 11 Pro Max Presentation (2) (1) (1)](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/9c01ccfb-5d4d-4233-9751-9efb072ab28b)
+<table><tr><td valign="top" width="33%">
+  
+
+
+
+
+
+### Tech Used: 
+🔘 JSON
+🔘 API
+🔘 Swift
+🔘 UIKit
 🔘 Device Storage
 
 </td></tr></table>  
