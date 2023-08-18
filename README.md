@@ -113,12 +113,14 @@
 🔘 Device Storage
 
 
-</td></tr></table>  
+</td></tr></table> 
+
 ### Only UIKit
+
 <table><tr><td valign="top" width="33%">
 
 ![Apple iPhone 11 Pro Max Presentation (2) (1) (1)](https://github.com/hakim-cyber/hakim-cyber/assets/115820565/9c01ccfb-5d4d-4233-9751-9efb072ab28b)
-<table><tr><td valign="top" width="33%">
+</td></tr></table> 
   
 
 ### Tech Used: 
