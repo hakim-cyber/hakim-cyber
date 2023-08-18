@@ -109,9 +109,11 @@ Also Has Admin Dashboard with password, There you can add new products, delete, 
 
 ### Tech Used: 
 🔘 JSON
-🔘 API
 🔘 Swift
 🔘 Swiftui
+🔘 UIKit
+🔘 PhotosUI
+🔘 CloudKit
 🔘 Device Storage
 </td></tr></table> 
   
