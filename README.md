@@ -107,6 +107,8 @@
 
 Also Has Admin Dashboard with password, There you can add new products, delete, and edit
 
+[Video](https://twitter.com/Hakim32892020/status/1692543651295953188?s=20)
+
 ### Tech Used: 
 🔘 JSON
 🔘 Swift
