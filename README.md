@@ -9,7 +9,6 @@
 ### <div align="center">I'm Hakim, Young Ios developer )  Learning and Developing since February 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [3 Apps in AppStore](https://apps.apple.com/us/developer/elshan-aliyev/id1691286018?ign-itscg=30200&ign-itsct=apps_box_li)
 - 😎 Scroll to see my projects
   
 
