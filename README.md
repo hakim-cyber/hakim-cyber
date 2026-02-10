@@ -133,6 +133,33 @@ Tech: Swift, SwiftUI, MVVM, Combine, AVFoundation, SceneKit, Custom Animations
 
 ---
 
+### 🟢 Aura — Social Media App (UIKit)  
+**Production-style architecture project**
+
+> Built to **master UIKit and scalable architecture**.
+![1](https://github.com/user-attachments/assets/1996127a-eec8-49ae-a7cf-88519a235da4)
+
+
+**Features**
+- Auth & onboarding
+- Posts, likes, comments, saves
+- Real-time feed updates
+- Profiles, following
+- Deep linking & translations
+
+**Tech**
+- UIKit, Swift
+- **MVVM-Coordinator**
+- Combine, async/await
+- Supabase (Auth, Realtime, Storage, RPC)
+- DeepL API, Kingfisher
+
+🔗 [Github](https://github.com/hakim-cyber/Social_Media_App_UIkit)
+
+
+
+---
+
 
 
 ### 🍏 Nutritionly — Health & Fitness Tracker  
@@ -162,31 +189,6 @@ Production-ready nutrition and activity tracking app with deep Apple Health inte
 
 ---
 
-### 🟢 Aura — Social Media App (UIKit)  
-**Production-style architecture project**
-
-> Built to **master UIKit and scalable architecture**.
-![1](https://github.com/user-attachments/assets/1996127a-eec8-49ae-a7cf-88519a235da4)
-
-
-**Features**
-- Auth & onboarding
-- Posts, likes, comments, saves
-- Real-time feed updates
-- Profiles, following
-- Deep linking & translations
-
-**Tech**
-- UIKit, Swift
-- **MVVM-Coordinator**
-- Combine, async/await
-- Supabase (Auth, Realtime, Storage, RPC)
-- DeepL API, Kingfisher
-
-🔗 [Github](https://github.com/hakim-cyber/Social_Media_App_UIkit)
-
-
----
 
 ### 🎓 FluxLearn — Interactive Science Learning App
 
