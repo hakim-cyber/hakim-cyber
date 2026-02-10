@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/hakim-cyber/hakim-cyber/assets/115820565/bd48641d-447b-4e5a-8163-a611ffbc2509" width="160" />
-</p>
 
 <h1 align="center">Hakim Aliyev</h1>
 <h3 align="center">iOS Developer • Swift / UIKit / SwiftUI</h3>
